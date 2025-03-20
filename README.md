@@ -1,0 +1,2 @@
+# MoviesRecommenderWithR
+面向MovieLens100k的影片推荐。设计要求：对MovieLens100k 的影片数据集进行可视化探索分析； 使用协同过滤等算法，实现对基于评分的影片推荐
